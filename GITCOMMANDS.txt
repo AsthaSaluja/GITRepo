@@ -1,0 +1,31 @@
+===> git clone git@github.com:AsthaSaluja/Cloud_Formation_YAML.git
+
+===> git checkout -b Branch01 (equivalent to ((git branch Branch01)) and ((git checkout Branch01)))
+
+===> git add . /git add all/git add file1.txt file2.txt(to stage a file)
+
+===> git status(to check the status)
+
+===> git commit -m "Commit Message" (# Commits all the changed files with "Commit Message")
+
+===> git push origin Branch01(to push branch01 to origin)
+
+===> git push -f(# to force push)
+
+===> git push -all(to push all the branches)
+
+-------------------------------------------------------------------------------------------------------
+
+===> git branch -d Branch01(for removing a branch)
+
+===> git branch -D Branch01(Branch is not removed and you get branch not fully merged error)
+
+===> git branch -a (To list all the branches in the local and remote repo)
+
+===> git rm file1.txt(to remove a file from git repo-local workspace)
+
+===> git reset --hard(to undo the last commit)
+
+----------------------------------------------------------------------------------------------------------
+FETCH PULL MERGE REBASE
+
